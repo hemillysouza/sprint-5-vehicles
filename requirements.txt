@@ -1,0 +1,3 @@
+pandas
+plotly_express
+streamlithttps://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_NEW_4_sprint/vehicles.csv
